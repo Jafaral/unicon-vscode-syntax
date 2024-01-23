@@ -18,7 +18,7 @@
 	},
     "contributes": {
         "languages": [{
-            "id": "icn",
+            "id": "unicon",
             "aliases": ["Unicon", "icn"],
             "extensions": [".icn"],
             "configuration": "./language-configuration-unicon.json"
@@ -30,7 +30,7 @@
             "configuration": "./language-configuration-ucode.json"
         }],
         "grammars": [{
-            "language": "icn",
+            "language": "unicon",
             "scopeName": "source.icn",
             "path": "./syntaxes/icn.tmLanguage.json"
         },
