@@ -1,14 +1,21 @@
 {
-    "name": "unicon-language",
-    "displayName": "Unicon Language",
+    "name": "unicon-syntax",
+    "displayName": "Unicon Syntax",
     "description": "Syntax highlighting for unicon and icon",
-    "version": "0.0.1",
+    "author": "Margret Riegert",
+	"license": "MIT",
+	"version": "0.3.0",
+	"publisher": "jafar",
     "engines": {
-        "vscode": "^1.66.0"
+        "vscode": "^1.82.0"
     },
     "categories": [
         "Programming Languages"
     ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jafaral/unicon-vscode-syntax.git"
+	},
     "contributes": {
         "languages": [{
             "id": "icn",
