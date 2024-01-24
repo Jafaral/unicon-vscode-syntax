@@ -4,7 +4,7 @@
     "description": "Syntax highlighting for unicon and icon",
     "author": "Margret Riegert",
 	"license": "MIT",
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"publisher": "jafar",
     "engines": {
         "vscode": "^1.82.0"

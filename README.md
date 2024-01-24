@@ -2,6 +2,4 @@
 
 Synatx Highlighting for the Unicon Programming Language
 
-### 0.1.0
-
-Initial release
+Author: Margret Riegert
